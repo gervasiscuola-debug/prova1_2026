@@ -1,4 +1,4 @@
-// versione 5 online
+// versione 6 online
 
 
 public class Libro {
